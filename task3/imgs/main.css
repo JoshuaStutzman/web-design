@@ -1,0 +1,38 @@
+.header{
+    background-color: #1e2024;
+    color: #5e636f;
+    height: 145px;
+}
+.left{
+    background-image: url(imgs/nowordgrumpycat.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.right{
+    background-image: url("imgs/ihatemonday.jpg");
+    background-size: cover;
+}
+.footer{
+    background-color: #1e2024;
+    font-style: bold;
+    height: 145px;
+}
+.navbar{
+    width: 100%;
+    background-color: #1e2024;
+}
+.container-fluid{
+    background-color: #1e2024;
+}
+.table{
+    border-color: black;
+}
+.navbar-brand{
+    color: #5e636f;
+}
+.ncolor{
+    color: white;
+}
+.navbar-toggler{
+    color: white;
+}
